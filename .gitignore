@@ -1,0 +1,18 @@
+# Environnement virtuel
+.venv/
+env/
+venv/
+
+# Fichiers compilés Python (Inutile)
+__pycache__/
+*.pyc
+
+# Notebooks Jupyter (Les sauvegardes automatiques)
+.ipynb_checkpoints
+
+# Configuration VS Code (
+.vscode/
+
+# Fichiers système Mac/Windows
+.DS_Store
+Thumbs.db
